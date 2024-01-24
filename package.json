@@ -1,0 +1,28 @@
+{
+  "name": "cedears",
+  "version": "0.0.1",
+  "description": "Archivo json con el listado de Cedears con sus ratios",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gndelia/cedears.git"
+  },
+  "keywords": [
+    "cedears"
+  ],
+  "author": {
+    "name": "Gonzalo D'elia",
+    "email": "gonzalo.n.delia@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gndelia/cedears/issues"
+  },
+  "files": [
+    "src/cedears.json"
+  ],
+  "homepage": "https://github.com/gndelia/cedears#readme",
+  "main": "src/cedears.json"
+}
