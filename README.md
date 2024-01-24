@@ -17,3 +17,5 @@ const cedears = require("cedears");
 // ESM
 import cedears from "cedears";
 ```
+
+También se puede acceder a través del [siguiente link](https://cedears.s3.us-east-2.amazonaws.com/cedears.json)
