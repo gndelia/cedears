@@ -1,1446 +1,1449 @@
-[
-  {
-    "name": "AMERICAN AIRLINES GROUP INC",
-    "ratio": "2:1",
-    "symbol": "AAL"
-  },
-  {
-    "name": "APPLE INC",
-    "ratio": "20:1",
-    "symbol": "AAPL"
-  },
-  {
-    "name": "ABBVIE INC",
-    "ratio": "10:1",
-    "symbol": "ABBV"
-  },
-  {
-    "name": "AMBEV SA-ADR",
-    "ratio": "1:3",
-    "symbol": "ABEV"
-  },
-  {
-    "name": "Airbnb Inc",
-    "ratio": "15:1",
-    "symbol": "ABNB"
-  },
-  {
-    "name": "ABBOTT LABORATORIES",
-    "ratio": "4:1",
-    "symbol": "ABT"
-  },
-  {
-    "name": "ALUMINUM CORP OF CHINA-ADR",
-    "ratio": "1:1",
-    "symbol": "ACHHY"
-  },
-  {
-    "name": "ADOBE INC",
-    "ratio": "44:1",
-    "symbol": "ADBE"
-  },
-  {
-    "name": "ADECOAGRO SA",
-    "ratio": "1:1",
-    "symbol": "ADGO"
-  },
-  {
-    "name": "ANALOG DEVICES INC",
-    "ratio": "15:1",
-    "symbol": "ADI"
-  },
-  {
-    "name": "AUTOMATIC DATA PROCESSING",
-    "ratio": "6:1",
-    "symbol": "ADP"
-  },
-  {
-    "name": "ADIDAS AG",
-    "ratio": "22:1",
-    "symbol": "ADS"
-  },
-  {
-    "name": "AEGON N.V.-NY REG SHR",
-    "ratio": "1:1",
-    "symbol": "AEG"
-  },
-  {
-    "name": "AGNICO EAGLE MINES LTD",
-    "ratio": "6:1",
-    "symbol": "AEM"
-  },
-  {
-    "name": "AMERICAN INTERNATIONAL GROUP",
-    "ratio": "5:1",
-    "symbol": "AIG"
-  },
-  {
-    "name": "EMBOTELLADORA ANDINA S.A.",
-    "ratio": "1:1",
-    "symbol": "AKO.B"
-  },
-  {
-    "name": "APPLIED MATERIALS INC",
-    "ratio": "5:1",
-    "symbol": "AMAT"
-  },
-  {
-    "name": "ADVANCED MICRO DEVICES",
-    "ratio": "10:1",
-    "symbol": "AMD"
-  },
-  {
-    "name": "AMGEN INC",
-    "ratio": "30:1",
-    "symbol": "AMGN"
-  },
-  {
-    "name": "AMERICA MOVIL-SPN ADR",
-    "ratio": "1:1",
-    "symbol": "AMX"
-  },
-  {
-    "name": "AMAZON.COM INC",
-    "ratio": "144:1",
-    "symbol": "AMZN"
-  },
-  {
-    "name": "ABERCROMBIE & FITCH CO-CL A",
-    "ratio": "1:1",
-    "symbol": "ANF"
-  },
-  {
-    "name": "Aluminum Corp Of China",
-    "ratio": "1:1",
-    "symbol": "AOCA"
-  },
-  {
-    "name": "ARCOS DORADOS HOLDINGS INC-A",
-    "ratio": "1:2",
-    "symbol": "ARCO"
-  },
-  {
-    "name": "GRUPO AEROPORTUARIO SUR-ADR",
-    "ratio": "20:1",
-    "symbol": "ASR"
-  },
-  {
-    "name": "TATNEFT PAO-SPONSORED ADR",
-    "ratio": "4:1",
-    "symbol": "ATAD"
-  },
-  {
-    "name": "Yamana Gold Inc.",
-    "ratio": "1:1",
-    "symbol": "AUY"
-  },
-  {
-    "name": "BROADCOM INC",
-    "ratio": "39:1",
-    "symbol": "AVGO"
-  },
-  {
-    "name": "AVERY DENNISON CORP",
-    "ratio": "18:1",
-    "symbol": "AVY"
-  },
-  {
-    "name": "AMERICAN EXPRESS CO",
-    "ratio": "15:1",
-    "symbol": "AXP"
-  },
-  {
-    "name": "ASTRAZENECA PLC-SPONS ADR",
-    "ratio": "2:1",
-    "symbol": "AZN"
-  },
-  {
-    "name": "THE BOEING COMPANY",
-    "ratio": "24:1",
-    "symbol": "BA"
-  },
-  {
-    "name": "BANK OF AMERICA CORPORATION",
-    "ratio": "4:1",
-    "symbol": "BA.C"
-  },
-  {
-    "name": "ALIBABA GROUP HOLDING-SP ADR",
-    "ratio": "9:1",
-    "symbol": "BABA"
-  },
-  {
-    "name": "BANK OF AMERICA CORP",
-    "ratio": "4:1",
-    "symbol": "BAC"
-  },
-  {
-    "name": "BASF SE",
-    "ratio": "2:1",
-    "symbol": "BAS"
-  },
-  {
-    "name": "BAYER AG-REG",
-    "ratio": "3:1",
-    "symbol": "BAYN"
-  },
-  {
-    "name": "BLACKBERRY LTD",
-    "ratio": "3:1",
-    "symbol": "BB"
-  },
-  {
-    "name": "BANCO BRADESCO-ADR",
-    "ratio": "1:1",
-    "symbol": "BBD"
-  },
-  {
-    "name": "BILBAO VIZCAYA ARGENTARIA S.A.",
-    "ratio": "1:1",
-    "symbol": "BBV"
-  },
-  {
-    "name": "BANCO BILBAO VIZCAYA-SP ADR",
-    "ratio": "1:1",
-    "symbol": "BBVA"
-  },
-  {
-    "name": "BARCLAYS PLC-SPONS ADR",
-    "ratio": "1:1",
-    "symbol": "BCS"
-  },
-  {
-    "name": "BHP GROUP LTD-SPON ADR",
-    "ratio": "2:1",
-    "symbol": "BHP"
-  },
-  {
-    "name": "BAIDU INC - SPON ADR",
-    "ratio": "11:1",
-    "symbol": "BIDU"
-  },
-  {
-    "name": "BIOGEN INC",
-    "ratio": "13:1",
-    "symbol": "BIIB"
-  },
-  {
-    "name": "BIOCERES CROP SOLUTIONS CORP",
-    "ratio": "1:1",
-    "symbol": "BIOX"
-  },
-  {
-    "name": "BITFARMS LTD.",
-    "ratio": "1:5",
-    "symbol": "BITF"
-  },
-  {
-    "name": "BANK OF NEW YORK MELLON CORP",
-    "ratio": "2:1",
-    "symbol": "BK"
-  },
-  {
-    "name": "BRISTOL-MYERS SQUIBB CO",
-    "ratio": "3:1",
-    "symbol": "BMY"
-  },
-  {
-    "name": "BUNGE LTD",
-    "ratio": "5:1",
-    "symbol": "BNG"
-  },
-  {
-    "name": "BP PLC-SPONS ADR",
-    "ratio": "5:1",
-    "symbol": "BP"
-  },
-  {
-    "name": "BRF SA-ADR",
-    "ratio": "1:3",
-    "symbol": "BRFS"
-  },
-  {
-    "name": "BERKSHIRE HATHAWAY INC-CL B",
-    "ratio": "22:1",
-    "symbol": "BRKB"
-  },
-  {
-    "name": "BANCO SANTANDER BRASIL-ADS",
-    "ratio": "1:1",
-    "symbol": "BSBR"
-  },
-  {
-    "name": "DANONE",
-    "ratio": "20:1",
-    "symbol": "BSN"
-  },
-  {
-    "name": "CITIGROUP INC",
-    "ratio": "3:1",
-    "symbol": "C"
-  },
-  {
-    "name": "CORP AMERICA AIRPORTS SA",
-    "ratio": "1:4",
-    "symbol": "CAAP"
-  },
-  {
-    "name": "CARDINAL HEALTH INC",
-    "ratio": "3:1",
-    "symbol": "CAH"
-  },
-  {
-    "name": "AVIS BUDGET GROUP INC",
-    "ratio": "26:1",
-    "symbol": "CAR"
-  },
-  {
-    "name": "CATERPILLAR INC",
-    "ratio": "20:1",
-    "symbol": "CAT"
-  },
-  {
-    "name": "CIA BRASILEIRA DE DIS- ADR",
-    "ratio": "1:1",
-    "symbol": "CBD"
-  },
-  {
-    "name": "COEUR MINING INC",
-    "ratio": "1:1",
-    "symbol": "CDE"
-  },
-  {
-    "name": "COLGATE-PALMOLIVE CO",
-    "ratio": "3:1",
-    "symbol": "CL"
-  },
-  {
-    "name": "COINBASE GLOBAL INC",
-    "ratio": "27:1",
-    "symbol": "COIN"
-  },
-  {
-    "name": "COSTCO WHOLESALE CORP",
-    "ratio": "48:1",
-    "symbol": "COST"
-  },
-  {
-    "name": "SALESFORCE INC",
-    "ratio": "18:1",
-    "symbol": "CRM"
-  },
-  {
-    "name": "CREDIT SUISSE GROUP",
-    "ratio": "1:1",
-    "symbol": "CS"
-  },
-  {
-    "name": "CISCO SYSTEMS INC",
-    "ratio": "5:1",
-    "symbol": "CSCO"
-  },
-  {
-    "name": "CHEVRON CORP",
-    "ratio": "16:1",
-    "symbol": "CVX"
-  },
-  {
-    "name": "CEMEX SAB-SPONS ADR PART CER",
-    "ratio": "1:1",
-    "symbol": "CX"
-  },
-  {
-    "name": "DUPONT DE NEMOURS INC",
-    "ratio": "5:1",
-    "symbol": "DD"
-  },
-  {
-    "name": "DEERE & CO",
-    "ratio": "40:1",
-    "symbol": "DE"
-  },
-  {
-    "name": "DIAGEO PLC-SPONSORED ADR",
-    "ratio": "6:1",
-    "symbol": "DEO"
-  },
-  {
-    "name": "DESPEGAR.COM CORP",
-    "ratio": "1:1",
-    "symbol": "DESP"
-  },
-  {
-    "name": "WALT DISNEY CO/THE",
-    "ratio": "12:1",
-    "symbol": "DIS"
-  },
-  {
-    "name": "DOCUSIGN INC",
-    "ratio": "22:1",
-    "symbol": "DOCU"
-  },
-  {
-    "name": "DOW INC",
-    "ratio": "6:1",
-    "symbol": "DOW"
-  },
-  {
-    "name": "DEUTSCHE TELEKOM AG-SPON ADR",
-    "ratio": "3:1",
-    "symbol": "DTEA"
-  },
-  {
-    "name": "ENI SPA-SPONSORED ADR",
-    "ratio": "4:1",
-    "symbol": "E"
-  },
-  {
-    "name": "ELECTRONIC ARTS INC",
-    "ratio": "14:1",
-    "symbol": "EA"
-  },
-  {
-    "name": "EBAY INC",
-    "ratio": "2:1",
-    "symbol": "EBAY"
-  },
-  {
-    "name": "CENTRAIS ELETRICAS BR-SP ADR",
-    "ratio": "1:4",
-    "symbol": "EBR"
-  },
-  {
-    "name": "EQUIFAX INC",
-    "ratio": "16:1",
-    "symbol": "EFX"
-  },
-  {
-    "name": "CIA PARANAENSE ENER-SP ADR P",
-    "ratio": "1:3",
-    "symbol": "ELP"
-  },
-  {
-    "name": "E.ON SE",
-    "ratio": "6:1",
-    "symbol": "EOAN"
-  },
-  {
-    "name": "ERICSSON (LM) TEL-SP ADR",
-    "ratio": "2:1",
-    "symbol": "ERIC"
-  },
-  {
-    "name": "EMBRAER SA-SPON ADR",
-    "ratio": "1:1",
-    "symbol": "ERJ"
-  },
-  {
-    "name": "ETSY INC",
-    "ratio": "16:1",
-    "symbol": "ETSY"
-  },
-  {
-    "name": "FORD MOTOR COMPANY",
-    "ratio": "1:1",
-    "symbol": "F"
-  },
-  {
-    "name": "FREEPORT-MCMORAN INC",
-    "ratio": "3:1",
-    "symbol": "FCX"
-  },
-  {
-    "name": "FEDEX CORP",
-    "ratio": "10:1",
-    "symbol": "FDX"
-  },
-  {
-    "name": "FREDDIE MAC",
-    "ratio": "1:1",
-    "symbol": "FMCC"
-  },
-  {
-    "name": "FOMENTO ECONOMICO MEX-SP ADR",
-    "ratio": "6:1",
-    "symbol": "FMX"
-  },
-  {
-    "name": "FANNIE MAE",
-    "ratio": "1:1",
-    "symbol": "FNMA"
-  },
-  {
-    "name": "FIRST SOLAR INC",
-    "ratio": "18:1",
-    "symbol": "FSLR"
-  },
-  {
-    "name": "GENERAL ELECTRIC CO",
-    "ratio": "8:1",
-    "symbol": "GE"
-  },
-  {
-    "name": "GOLD FIELDS LTD-SPONS ADR",
-    "ratio": "1:1",
-    "symbol": "GFI"
-  },
-  {
-    "name": "GERDAU SA -SPON ADR",
-    "ratio": "1:4",
-    "symbol": "GGB"
-  },
-  {
-    "name": "GILEAD SCIENCES INC",
-    "ratio": "4:1",
-    "symbol": "GILD"
-  },
-  {
-    "name": "GLOBANT SA",
-    "ratio": "18:1",
-    "symbol": "GLOB"
-  },
-  {
-    "name": "CORNING INC",
-    "ratio": "4:1",
-    "symbol": "GLW"
-  },
-  {
-    "name": "GENERAL MOTORS CO",
-    "ratio": "6:1",
-    "symbol": "GM"
-  },
-  {
-    "name": "BARRICK GOLD CORPORATION",
-    "ratio": "2:1",
-    "symbol": "GOLD"
-  },
-  {
-    "name": "ALPHABET INC-CL A",
-    "ratio": "58:1",
-    "symbol": "GOOGL"
-  },
-  {
-    "name": "GEOPARK LTD",
-    "ratio": "1:1",
-    "symbol": "GPRK"
-  },
-  {
-    "name": "GARMIN LTD",
-    "ratio": "3:1",
-    "symbol": "GRMN"
-  },
-  {
-    "name": "GOLDMAN SACHS GROUP INC",
-    "ratio": "13:1",
-    "symbol": "GS"
-  },
-  {
-    "name": "GSK PLC",
-    "ratio": "4:1",
-    "symbol": "GSK"
-  },
-  {
-    "name": "HALLIBURTON CO",
-    "ratio": "2:1",
-    "symbol": "HAL"
-  },
-  {
-    "name": "HOME DEPOT INC",
-    "ratio": "32:1",
-    "symbol": "HD"
-  },
-  {
-    "name": "HDFC BANK LTD-ADR",
-    "ratio": "2:1",
-    "symbol": "HDB"
-  },
-  {
-    "name": "HON HAI PRECISION-GDR REG S",
-    "ratio": "2:1",
-    "symbol": "HHPD LI"
-  },
-  {
-    "name": "HECLA MINING CO",
-    "ratio": "1:1",
-    "symbol": "HL"
-  },
-  {
-    "name": "HONDA MOTOR CO LTD-SPONS ADR",
-    "ratio": "1:1",
-    "symbol": "HMC"
-  },
-  {
-    "name": "HARMONY GOLD MNG-SPON ADR",
-    "ratio": "1:1",
-    "symbol": "HMY"
-  },
-  {
-    "name": "HUANENG POWER INTL-SPONS ADR",
-    "ratio": "1:1",
-    "symbol": "HNPIY"
-  },
-  {
-    "name": "HARLEY-DAVIDSON INC",
-    "ratio": "3:1",
-    "symbol": "HOG"
-  },
-  {
-    "name": "HONEYWELL INTERNATIONAL INC",
-    "ratio": "8:1",
-    "symbol": "HON"
-  },
-  {
-    "name": "HP INC",
-    "ratio": "1:1",
-    "symbol": "HPQ"
-  },
-  {
-    "name": "HSBC HOLDINGS PLC-SPONS ADR",
-    "ratio": "2:1",
-    "symbol": "HSBC"
-  },
-  {
-    "name": "HERSHEY CO/THE",
-    "ratio": "21:1",
-    "symbol": "HSY"
-  },
-  {
-    "name": "HUT 8 MINING CORP.",
-    "ratio": "1:5",
-    "symbol": "HUT"
-  },
-  {
-    "name": "HOWMET AEROSPACE INC",
-    "ratio": "1:1",
-    "symbol": "HWM"
-  },
-  {
-    "name": "INTERNATIONAL BUSINESS MACHINES CORPORATION (IBM)",
-    "ratio": "15:1",
-    "symbol": "IBM"
-  },
-  {
-    "name": "ICICI BANK LTD-SPON ADR",
-    "ratio": "1:1",
-    "symbol": "IBN"
-  },
-  {
-    "name": "INTL FLAVORS & FRAGRANCES",
-    "ratio": "12:1",
-    "symbol": "IFF"
-  },
-  {
-    "name": "INFOSYS LTD-SP ADR",
-    "ratio": "1:1",
-    "symbol": "INFY"
-  },
-  {
-    "name": "ING GROEP N.V.-SPONSORED ADR",
-    "ratio": "3:1",
-    "symbol": "ING"
-  },
-  {
-    "name": "INTEL CORP",
-    "ratio": "5:1",
-    "symbol": "INTC"
-  },
-  {
-    "name": "INTERNATIONAL PAPER CO",
-    "ratio": "4:1",
-    "symbol": "IP"
-  },
-  {
-    "name": "ITAU UNIBANCO H-SPON PRF ADR",
-    "ratio": "1:1",
-    "symbol": "ITUB"
-  },
-  {
-    "name": "JOHNSON CONTROLS INTERNATION",
-    "ratio": "2:1",
-    "symbol": "JCI"
-  },
-  {
-    "name": "JD.COM INC-ADR",
-    "ratio": "4:1",
-    "symbol": "JD"
-  },
-  {
-    "name": "ADR JUMIA TECHNOLOGIES AG",
-    "ratio": "1:1",
-    "symbol": "JMIA"
-  },
-  {
-    "name": "JOHNSON & JOHNSON",
-    "ratio": "15:1",
-    "symbol": "JNJ"
-  },
-  {
-    "name": "JPMORGAN CHASE & CO",
-    "ratio": "5:1",
-    "symbol": "JPM"
-  },
-  {
-    "name": "KB FINANCIAL GROUP INC-ADR",
-    "ratio": "2:1",
-    "symbol": "KB"
-  },
-  {
-    "name": "KOREA ELEC POWER CORP-SP ADR",
-    "ratio": "1:1",
-    "symbol": "KEP"
-  },
-  {
-    "name": "KINROSS GOLD CORP",
-    "ratio": "1:1",
-    "symbol": "KGC"
-  },
-  {
-    "name": "KIMBERLY-CLARK CORP",
-    "ratio": "6:1",
-    "symbol": "KMB"
-  },
-  {
-    "name": "COCA-COLA CO/THE",
-    "ratio": "5:1",
-    "symbol": "KO"
-  },
-  {
-    "name": "COCA-COLA FEMSA SAB-SP ADR",
-    "ratio": "2:1",
-    "symbol": "KOFM"
-  },
-  {
-    "name": "LUKOIL PJSC-SPON ADR",
-    "ratio": "4:1",
-    "symbol": "LKOD"
-  },
-  {
-    "name": "ELI LILLY AND COMPANY",
-    "ratio": "56:1",
-    "symbol": "LLY"
-  },
-  {
-    "name": "LOCKHEED MARTIN CORP",
-    "ratio": "20:1",
-    "symbol": "LMT"
-  },
-  {
-    "name": "LAM RESEARCH CORP",
-    "ratio": "56:1",
-    "symbol": "LRCX"
-  },
-  {
-    "name": "LAS VEGAS SANDS CORP",
-    "ratio": "2:1",
-    "symbol": "LVS"
-  },
-  {
-    "name": "LLOYDS BANKING GROUP PLC-ADR",
-    "ratio": "2:1",
-    "symbol": "LYG"
-  },
-  {
-    "name": "MASTERCARD INC - A",
-    "ratio": "33:1",
-    "symbol": "MA"
-  },
-  {
-    "name": "MERCEDES-BENZ GROUP AG",
-    "ratio": "4:1",
-    "symbol": "MBG"
-  },
-  {
-    "name": "MOBILE TELESYSTEMS-SP ADR",
-    "ratio": "2:1",
-    "symbol": "MBT"
-  },
-  {
-    "name": "MCDONALD'S CORP",
-    "ratio": "24:1",
-    "symbol": "MCD"
-  },
-  {
-    "name": "MEDTRONIC PLC",
-    "ratio": "4:1",
-    "symbol": "MDT"
-  },
-  {
-    "name": "MERCADOLIBRE INC",
-    "ratio": "120:1",
-    "symbol": "MELI"
-  },
-  {
-    "name": "META PLATFORMS INC.",
-    "ratio": "24:1",
-    "symbol": "META"
-  },
-  {
-    "name": "MIZUHO FINANCIAL GROUP-ADR",
-    "ratio": "1:1",
-    "symbol": "MFG"
-  },
-  {
-    "name": "MARSH & MCLENNAN COS",
-    "ratio": "16:1",
-    "symbol": "MMC"
-  },
-  {
-    "name": "3M COMPANY",
-    "ratio": "10:1",
-    "symbol": "MMM"
-  },
-  {
-    "name": "ALTRIA GROUP INC",
-    "ratio": "4:1",
-    "symbol": "MO"
-  },
-  {
-    "name": "HE MOSAIC CO",
-    "ratio": "5:1",
-    "symbol": "MOS"
-  },
-  {
-    "name": "MERCK & CO. INC.",
-    "ratio": "5:1",
-    "symbol": "MRK"
-  },
-  {
-    "name": "MICROSOFT CORP",
-    "ratio": "30:1",
-    "symbol": "MSFT"
-  },
-  {
-    "name": "MOTOROLA SOLUTIONS INC",
-    "ratio": "20:1",
-    "symbol": "MSI"
-  },
-  {
-    "name": "MICROSTRATEGY INC CL A NEW",
-    "ratio": "20:1",
-    "symbol": "MSTR"
-  },
-  {
-    "name": "MICRON TECHNOLOGY INC",
-    "ratio": "5:1",
-    "symbol": "MU"
-  },
-  {
-    "name": "MITSUBISHI UFJ FINL-SPON ADR",
-    "ratio": "1:1",
-    "symbol": "MUFG"
-  },
-  {
-    "name": "NEC CORP",
-    "ratio": "1:3",
-    "symbol": "NEC1"
-  },
-  {
-    "name": "NEWMONT CORP",
-    "ratio": "3:1",
-    "symbol": "NEM"
-  },
-  {
-    "name": "NETFLIX INC",
-    "ratio": "48:1",
-    "symbol": "NFLX"
-  },
-  {
-    "name": "NOVAGOLD RESOURCES INC",
-    "ratio": "1:4",
-    "symbol": "NG"
-  },
-  {
-    "name": "NATIONAL GRID PLC-SP ADR",
-    "ratio": "2:1",
-    "symbol": "NGG"
-  },
-  {
-    "name": "NIO INC.",
-    "ratio": "4:1",
-    "symbol": "NIO"
-  },
-  {
-    "name": "NIKE INC -CL B",
-    "ratio": "12:1",
-    "symbol": "NKE"
-  },
-  {
-    "name": "NOVOLIPETSK STEEL PJSC-GDR",
-    "ratio": "2:1",
-    "symbol": "NLM"
-  },
-  {
-    "name": "NOMURA HOLDINGS INC-SPON ADR",
-    "ratio": "1:1",
-    "symbol": "NMR"
-  },
-  {
-    "name": "NOKIA CORP-SPON ADR",
-    "ratio": "1:1",
-    "symbol": "NOKA"
-  },
-  {
-    "name": "NISSAN MOTOR CO LTD-SPON ADR",
-    "ratio": "1:1",
-    "symbol": "NSAN"
-  },
-  {
-    "name": "NATURA &CO HOLDING-ADR",
-    "ratio": "1:1",
-    "symbol": "NTCO"
-  },
-  {
-    "name": "NETEASE INC-ADR",
-    "ratio": "14:1",
-    "symbol": "NTES"
-  },
-  {
-    "name": "NUCOR CORP",
-    "ratio": "16:1",
-    "symbol": "NUE"
-  },
-  {
-    "name": "NVIDIA CORP",
-    "ratio": "24:1",
-    "symbol": "NVDA"
-  },
-  {
-    "name": "NOVARTIS AG-SPONSORED ADR",
-    "ratio": "4:1",
-    "symbol": "NVS"
-  },
-  {
-    "name": "GAZPROM PJSC-SPON ADR",
-    "ratio": "2:1",
-    "symbol": "OGZD"
-  },
-  {
-    "name": "ORANGE-SPON ADR",
-    "ratio": "1:1",
-    "symbol": "ORAN"
-  },
-  {
-    "name": "ORACLE CORP",
-    "ratio": "3:1",
-    "symbol": "ORCL"
-  },
-  {
-    "name": "OCCIDENTAL PETROLEUM CORP.",
-    "ratio": "3:1",
-    "symbol": "OXY"
-  },
-  {
-    "name": "PAN AMERICAN SILVER CORP",
-    "ratio": "5:1",
-    "symbol": "PAAS"
-  },
-  {
-    "name": "GRUPO AEROPORTUARIO PAC-ADR",
-    "ratio": "16:1",
-    "symbol": "PAC"
-  },
-  {
-    "name": "PALO ALTO NETWORKS INC",
-    "ratio": "50:1",
-    "symbol": "PANW"
-  },
-  {
-    "name": "PITNEY BOWES INC",
-    "ratio": "1:1",
-    "symbol": "PBI"
-  },
-  {
-    "name": "PETROLEO BRASILEIRO-SPON ADR",
-    "ratio": "1:1",
-    "symbol": "PBR"
-  },
-  {
-    "name": "PACCAR INC",
-    "ratio": "3:1",
-    "symbol": "PCAR"
-  },
-  {
-    "name": "PANASONIC CORP-SPON ADR",
-    "ratio": "2:1",
-    "symbol": "PCRF"
-  },
-  {
-    "name": "PEPSICO INC",
-    "ratio": "18:1",
-    "symbol": "PEP"
-  },
-  {
-    "name": "PFIZER INC",
-    "ratio": "4:1",
-    "symbol": "PFE"
-  },
-  {
-    "name": "PROCTER & GAMBLE CO/THE",
-    "ratio": "15:1",
-    "symbol": "PG"
-  },
-  {
-    "name": "KONINKLIJKE PHILIPS NVR- NY",
-    "ratio": "5:1",
-    "symbol": "PHG"
-  },
-  {
-    "name": "POSCO HONDINGS INC",
-    "ratio": "3:1",
-    "symbol": "PKS"
-  },
-  {
-    "name": "PEARSON PLC-SPONSORED ADR",
-    "ratio": "1:1",
-    "symbol": "PSO"
-  },
-  {
-    "name": "PHILLIPS 66",
-    "ratio": "6:1",
-    "symbol": "PSX"
-  },
-  {
-    "name": "PETROCHINA CO LTD -ADR",
-    "ratio": "4:1",
-    "symbol": "PTRCY"
-  },
-  {
-    "name": "PAYPAL HOLDINGS INC",
-    "ratio": "8:1",
-    "symbol": "PYPL"
-  },
-  {
-    "name": "QUALCOMM INC",
-    "ratio": "11:1",
-    "symbol": "QCOM"
-  },
-  {
-    "name": "ROBLOX CORP.",
-    "ratio": "2:1",
-    "symbol": "RBLX"
-  },
-  {
-    "name": "RIO TINTO PLC-SPON ADR",
-    "ratio": "8:1",
-    "symbol": "RIO"
-  },
-  {
-    "name": "ROSS STORES INC",
-    "ratio": "4:1",
-    "symbol": "ROST"
-  },
-  {
-    "name": "RTX CORPORATION",
-    "ratio": "5:1",
-    "symbol": "RTX"
-  },
-  {
-    "name": "BANCO SANTANDER SA-SPON ADR",
-    "ratio": "1:4",
-    "symbol": "SAN"
-  },
-  {
-    "name": "SAP SE-SPONSORED ADR",
-    "ratio": "6:1",
-    "symbol": "SAP"
-  },
-  {
-    "name": "SATELLOGIC INC.",
-    "ratio": "1:1",
-    "symbol": "SATL"
-  },
-  {
-    "name": "CIA SANEAMENTO BASICO DE-ADR",
-    "ratio": "1:2",
-    "symbol": "SBS"
-  },
-  {
-    "name": "STARBUCKS CORP",
-    "ratio": "12:1",
-    "symbol": "SBUX"
-  },
-  {
-    "name": "SOUTHERN COPPER CORP",
-    "ratio": "2:1",
-    "symbol": "SCCO"
-  },
-  {
-    "name": "SEA LTD.",
-    "ratio": "32:1",
-    "symbol": "SE"
-  },
-  {
-    "name": "SHELL PLC",
-    "ratio": "2:1",
-    "symbol": "SHEL"
-  },
-  {
-    "name": "SHOPIFY INC - CLASS A",
-    "ratio": "107:1",
-    "symbol": "SHOP"
-  },
-  {
-    "name": "SILVERGATE BANCORP",
-    "ratio": "10:1",
-    "symbol": "SI"
-  },
-  {
-    "name": "CIA SIDERURGICA NACL-SP ADR",
-    "ratio": "1:8",
-    "symbol": "SID"
-  },
-  {
-    "name": "SIEMENS AG-SPONS ADR",
-    "ratio": "3:1",
-    "symbol": "SIEGY"
-  },
-  {
-    "name": "SCHLUMBERGER LTD",
-    "ratio": "3:1",
-    "symbol": "SLB"
-  },
-  {
-    "name": "SAMSUNG ELECTR-GDR REG S",
-    "ratio": "14:1",
-    "symbol": "SMSN"
-  },
-  {
-    "name": "SNAP-ON INC",
-    "ratio": "6:1",
-    "symbol": "SNA"
-  },
-  {
-    "name": "SNAP INC - A",
-    "ratio": "1:1",
-    "symbol": "SNAP"
-  },
-  {
-    "name": "SNOWFLAKE INC-CLASS A",
-    "ratio": "30:1",
-    "symbol": "SNOW"
-  },
-  {
-    "name": "SONY CORPORATION",
-    "ratio": "8:1",
-    "symbol": "SONY"
-  },
-  {
-    "name": "S&P GLOBAL INC",
-    "ratio": "45:1",
-    "symbol": "SPGI"
-  },
-  {
-    "name": "SPOTIFY TECHNOLOGY SA",
-    "ratio": "28:1",
-    "symbol": "SPOT"
-  },
-  {
-    "name": "BLOCK INC",
-    "ratio": "20:1",
-    "symbol": "SQ"
-  },
-  {
-    "name": "SUZANO SA - SPON ADR",
-    "ratio": "1:1",
-    "symbol": "SUZ"
-  },
-  {
-    "name": "SYSCO CORP",
-    "ratio": "8:1",
-    "symbol": "SYY"
-  },
-  {
-    "name": "AT&T INC",
-    "ratio": "3:1",
-    "symbol": "T"
-  },
-  {
-    "name": "TRIP.COM GROUP LTD-ADR",
-    "ratio": "2:1",
-    "symbol": "TCOM"
-  },
-  {
-    "name": "TELEFONICA SA-SPON ADR",
-    "ratio": "8:1",
-    "symbol": "TEFO"
-  },
-  {
-    "name": "TENARIS SA-ADR",
-    "ratio": "1:1",
-    "symbol": "TEN"
-  },
-  {
-    "name": "TARGET CORP",
-    "ratio": "24:1",
-    "symbol": "TGT"
-  },
-  {
-    "name": "TIM PARTICIPAÇÕES S.A.",
-    "ratio": "1:1",
-    "symbol": "TIMB"
-  },
-  {
-    "name": "TELECOM ITALIA SPA-SPON ADR",
-    "ratio": "1:1",
-    "symbol": "TIIAY"
-  },
-  {
-    "name": "TOYOTA MOTOR CORP",
-    "ratio": "15:1",
-    "symbol": "TM"
-  },
-  {
-    "name": "THERMO FISHER SCIENTIFIC INC",
-    "ratio": "22:1",
-    "symbol": "TMO"
-  },
-  {
-    "name": "TRIPADVISOR INC",
-    "ratio": "2:1",
-    "symbol": "TRIP"
-  },
-  {
-    "name": "TRAVELERS COS INC/THE",
-    "ratio": "6:1",
-    "symbol": "TRV"
-  },
-  {
-    "name": "TESLA INC",
-    "ratio": "15:1",
-    "symbol": "TSLA"
-  },
-  {
-    "name": "TAIWAN SEMICONDUCTOR-SP ADR",
-    "ratio": "9:1",
-    "symbol": "TSM"
-  },
-  {
-    "name": "TIM SA-ADR",
-    "ratio": "1:1",
-    "symbol": "TSU"
-  },
-  {
-    "name": "TOTALENERGIES SE - ADR",
-    "ratio": "3:1",
-    "symbol": "TTE"
-  },
-  {
-    "name": "TATA MOTORS LTD-SPON ADR",
-    "ratio": "1:1",
-    "symbol": "TTM"
-  },
-  {
-    "name": "GRUPO TELEVISA SA-SPON ADR",
-    "ratio": "3:1",
-    "symbol": "TV"
-  },
-  {
-    "name": "TWILIO INC",
-    "ratio": "36:1",
-    "symbol": "TWLO"
-  },
-  {
-    "name": "TEXAS INSTRUMENTS INC",
-    "ratio": "5:1",
-    "symbol": "TXN"
-  },
-  {
-    "name": "TERNIUM SA-SPONSORED ADR",
-    "ratio": "4:1",
-    "symbol": "TXR"
-  },
-  {
-    "name": "UNITED AIRLINES HOLDINGS INC.",
-    "ratio": "5:1",
-    "symbol": "UAL"
-  },
-  {
-    "name": "UBER TECHNOLOGIES INC.",
-    "ratio": "2:1",
-    "symbol": "UBER"
-  },
-  {
-    "name": "ULTRAPAR PARTICPAC-SPON ADR",
-    "ratio": "1:1",
-    "symbol": "UGP"
-  },
-  {
-    "name": "UNILEVER N V -NY SHARES",
-    "ratio": "3:1",
-    "symbol": "UL"
-  },
-  {
-    "name": "UNITEDHEALTH GROUP INC",
-    "ratio": "33:1",
-    "symbol": "UNH"
-  },
-  {
-    "name": "UNION PACIFIC CORP",
-    "ratio": "20:1",
-    "symbol": "UNP"
-  },
-  {
-    "name": "UPSTART HLDGS INC",
-    "ratio": "5:1",
-    "symbol": "UPST"
-  },
-  {
-    "name": "URBAN OUTFITTERS INC",
-    "ratio": "2:1",
-    "symbol": "URBN"
-  },
-  {
-    "name": "US BANCORP",
-    "ratio": "5:1",
-    "symbol": "USB"
-  },
-  {
-    "name": "VISA INC-CLASS A SHARES",
-    "ratio": "18:1",
-    "symbol": "V"
-  },
-  {
-    "name": "VALE SA-SP ADR",
-    "ratio": "2:1",
-    "symbol": "VALE"
-  },
-  {
-    "name": "VISTA ENERGY S.A.B. de C.V",
-    "ratio": "3:1",
-    "symbol": "VIST"
-  },
-  {
-    "name": "TELEFONICA BRASIL-ADR",
-    "ratio": "1:1",
-    "symbol": "VIV"
-  },
-  {
-    "name": "VODAFONE GROUP PLC-SP ADR",
-    "ratio": "1:1",
-    "symbol": "VOD"
-  },
-  {
-    "name": "VERISIGN INC",
-    "ratio": "6:1",
-    "symbol": "VRSN"
-  },
-  {
-    "name": "VERIZON COMMUNICATIONS INC",
-    "ratio": "4:1",
-    "symbol": "VZ"
-  },
-  {
-    "name": "WALGREENS BOOTS ALLIANCE INC",
-    "ratio": "3:1",
-    "symbol": "WBA"
-  },
-  {
-    "name": "WEIBO CORP-SPON ADR",
-    "ratio": "6:1",
-    "symbol": "WBO"
-  },
-  {
-    "name": "WELLS FARGO & CO",
-    "ratio": "5:1",
-    "symbol": "WFC"
-  },
-  {
-    "name": "WALMART INC",
-    "ratio": "18:1",
-    "symbol": "WMT"
-  },
-  {
-    "name": "UNITED STATES STEEL CORP",
-    "ratio": "3:1",
-    "symbol": "X"
-  },
-  {
-    "name": "EXXON MOBIL CORPORATION",
-    "ratio": "10:1",
-    "symbol": "XOM"
-  },
-  {
-    "name": "XP INC",
-    "ratio": "4:1",
-    "symbol": "XP"
-  },
-  {
-    "name": "XEROX HOLDINGS CORP",
-    "ratio": "1:1",
-    "symbol": "XROX"
-  },
-  {
-    "name": "YELP INC",
-    "ratio": "2:1",
-    "symbol": "YELP"
-  },
-  {
-    "name": "JOYY INC",
-    "ratio": "5:1",
-    "symbol": "YY"
-  },
-  {
-    "name": "YANKUANG ENERGY GROUP CO. LTD.",
-    "ratio": "2:1",
-    "symbol": "YZCA"
-  },
-  {
-    "name": "ZOOM VIDEO COMMUNICATIONS-A",
-    "ratio": "47:1",
-    "symbol": "ZM"
-  },
-  {
-    "isETF": true,
-    "name": "ETF ARK INNOVATION",
-    "ratio": "10:1",
-    "symbol": "ARKK"
-  },
-  {
-    "isETF": true,
-    "name": "SPDR DOW JONES INDUSTRIAL",
-    "ratio": "20:1",
-    "symbol": "DIA"
-  },
-  {
-    "isETF": true,
-    "name": "ISHARES  MSCI EMERGING MARKET",
-    "ratio": "5:1",
-    "symbol": "EEM"
-  },
-  {
-    "isETF": true,
-    "name": "ISHARES MSCI BRAZIL CAP",
-    "ratio": "2:1",
-    "symbol": "EWZ"
-  },
-  {
-    "isETF": true,
-    "name": "ISHARES TRUST RUSSELL 2000",
-    "ratio": "10:1",
-    "symbol": "IWM"
-  },
-  {
-    "isETF": true,
-    "name": "INVESCO QQQ TRUST",
-    "ratio": "20:1",
-    "symbol": "QQQ"
-  },
-  {
-    "isETF": true,
-    "name": "SPDR S&P 500",
-    "ratio": "20:1",
-    "symbol": "SPY"
-  },
-  {
-    "isETF": true,
-    "name": "ENERGY SELECT SECTOR SPDR FUND",
-    "ratio": "2:1",
-    "symbol": "XLE"
-  },
-  {
-    "isETF": true,
-    "name": "FINANCIAL SELECT SECTOR SPDR FUND",
-    "ratio": "2:1",
-    "symbol": "XLF"
-  }
-]
+{
+  "list": [
+    {
+      "name": "AMERICAN AIRLINES GROUP INC",
+      "ratio": "2:1",
+      "symbol": "AAL"
+    },
+    {
+      "name": "APPLE INC",
+      "ratio": "20:1",
+      "symbol": "AAPL"
+    },
+    {
+      "name": "ABBVIE INC",
+      "ratio": "10:1",
+      "symbol": "ABBV"
+    },
+    {
+      "name": "AMBEV SA-ADR",
+      "ratio": "1:3",
+      "symbol": "ABEV"
+    },
+    {
+      "name": "Airbnb Inc",
+      "ratio": "15:1",
+      "symbol": "ABNB"
+    },
+    {
+      "name": "ABBOTT LABORATORIES",
+      "ratio": "4:1",
+      "symbol": "ABT"
+    },
+    {
+      "name": "ALUMINUM CORP OF CHINA-ADR",
+      "ratio": "1:1",
+      "symbol": "ACHHY"
+    },
+    {
+      "name": "ADOBE INC",
+      "ratio": "44:1",
+      "symbol": "ADBE"
+    },
+    {
+      "name": "ADECOAGRO SA",
+      "ratio": "1:1",
+      "symbol": "ADGO"
+    },
+    {
+      "name": "ANALOG DEVICES INC",
+      "ratio": "15:1",
+      "symbol": "ADI"
+    },
+    {
+      "name": "AUTOMATIC DATA PROCESSING",
+      "ratio": "6:1",
+      "symbol": "ADP"
+    },
+    {
+      "name": "ADIDAS AG",
+      "ratio": "22:1",
+      "symbol": "ADS"
+    },
+    {
+      "name": "AEGON N.V.-NY REG SHR",
+      "ratio": "1:1",
+      "symbol": "AEG"
+    },
+    {
+      "name": "AGNICO EAGLE MINES LTD",
+      "ratio": "6:1",
+      "symbol": "AEM"
+    },
+    {
+      "name": "AMERICAN INTERNATIONAL GROUP",
+      "ratio": "5:1",
+      "symbol": "AIG"
+    },
+    {
+      "name": "EMBOTELLADORA ANDINA S.A.",
+      "ratio": "1:1",
+      "symbol": "AKO.B"
+    },
+    {
+      "name": "APPLIED MATERIALS INC",
+      "ratio": "5:1",
+      "symbol": "AMAT"
+    },
+    {
+      "name": "ADVANCED MICRO DEVICES",
+      "ratio": "10:1",
+      "symbol": "AMD"
+    },
+    {
+      "name": "AMGEN INC",
+      "ratio": "30:1",
+      "symbol": "AMGN"
+    },
+    {
+      "name": "AMERICA MOVIL-SPN ADR",
+      "ratio": "1:1",
+      "symbol": "AMX"
+    },
+    {
+      "name": "AMAZON.COM INC",
+      "ratio": "144:1",
+      "symbol": "AMZN"
+    },
+    {
+      "name": "ABERCROMBIE & FITCH CO-CL A",
+      "ratio": "1:1",
+      "symbol": "ANF"
+    },
+    {
+      "name": "Aluminum Corp Of China",
+      "ratio": "1:1",
+      "symbol": "AOCA"
+    },
+    {
+      "name": "ARCOS DORADOS HOLDINGS INC-A",
+      "ratio": "1:2",
+      "symbol": "ARCO"
+    },
+    {
+      "name": "GRUPO AEROPORTUARIO SUR-ADR",
+      "ratio": "20:1",
+      "symbol": "ASR"
+    },
+    {
+      "name": "TATNEFT PAO-SPONSORED ADR",
+      "ratio": "4:1",
+      "symbol": "ATAD"
+    },
+    {
+      "name": "Yamana Gold Inc.",
+      "ratio": "1:1",
+      "symbol": "AUY"
+    },
+    {
+      "name": "BROADCOM INC",
+      "ratio": "39:1",
+      "symbol": "AVGO"
+    },
+    {
+      "name": "AVERY DENNISON CORP",
+      "ratio": "18:1",
+      "symbol": "AVY"
+    },
+    {
+      "name": "AMERICAN EXPRESS CO",
+      "ratio": "15:1",
+      "symbol": "AXP"
+    },
+    {
+      "name": "ASTRAZENECA PLC-SPONS ADR",
+      "ratio": "2:1",
+      "symbol": "AZN"
+    },
+    {
+      "name": "THE BOEING COMPANY",
+      "ratio": "24:1",
+      "symbol": "BA"
+    },
+    {
+      "name": "BANK OF AMERICA CORPORATION",
+      "ratio": "4:1",
+      "symbol": "BA.C"
+    },
+    {
+      "name": "ALIBABA GROUP HOLDING-SP ADR",
+      "ratio": "9:1",
+      "symbol": "BABA"
+    },
+    {
+      "name": "BANK OF AMERICA CORP",
+      "ratio": "4:1",
+      "symbol": "BAC"
+    },
+    {
+      "name": "BASF SE",
+      "ratio": "2:1",
+      "symbol": "BAS"
+    },
+    {
+      "name": "BAYER AG-REG",
+      "ratio": "3:1",
+      "symbol": "BAYN"
+    },
+    {
+      "name": "BLACKBERRY LTD",
+      "ratio": "3:1",
+      "symbol": "BB"
+    },
+    {
+      "name": "BANCO BRADESCO-ADR",
+      "ratio": "1:1",
+      "symbol": "BBD"
+    },
+    {
+      "name": "BILBAO VIZCAYA ARGENTARIA S.A.",
+      "ratio": "1:1",
+      "symbol": "BBV"
+    },
+    {
+      "name": "BANCO BILBAO VIZCAYA-SP ADR",
+      "ratio": "1:1",
+      "symbol": "BBVA"
+    },
+    {
+      "name": "BARCLAYS PLC-SPONS ADR",
+      "ratio": "1:1",
+      "symbol": "BCS"
+    },
+    {
+      "name": "BHP GROUP LTD-SPON ADR",
+      "ratio": "2:1",
+      "symbol": "BHP"
+    },
+    {
+      "name": "BAIDU INC - SPON ADR",
+      "ratio": "11:1",
+      "symbol": "BIDU"
+    },
+    {
+      "name": "BIOGEN INC",
+      "ratio": "13:1",
+      "symbol": "BIIB"
+    },
+    {
+      "name": "BIOCERES CROP SOLUTIONS CORP",
+      "ratio": "1:1",
+      "symbol": "BIOX"
+    },
+    {
+      "name": "BITFARMS LTD.",
+      "ratio": "1:5",
+      "symbol": "BITF"
+    },
+    {
+      "name": "BANK OF NEW YORK MELLON CORP",
+      "ratio": "2:1",
+      "symbol": "BK"
+    },
+    {
+      "name": "BRISTOL-MYERS SQUIBB CO",
+      "ratio": "3:1",
+      "symbol": "BMY"
+    },
+    {
+      "name": "BUNGE LTD",
+      "ratio": "5:1",
+      "symbol": "BNG"
+    },
+    {
+      "name": "BP PLC-SPONS ADR",
+      "ratio": "5:1",
+      "symbol": "BP"
+    },
+    {
+      "name": "BRF SA-ADR",
+      "ratio": "1:3",
+      "symbol": "BRFS"
+    },
+    {
+      "name": "BERKSHIRE HATHAWAY INC-CL B",
+      "ratio": "22:1",
+      "symbol": "BRKB"
+    },
+    {
+      "name": "BANCO SANTANDER BRASIL-ADS",
+      "ratio": "1:1",
+      "symbol": "BSBR"
+    },
+    {
+      "name": "DANONE",
+      "ratio": "20:1",
+      "symbol": "BSN"
+    },
+    {
+      "name": "CITIGROUP INC",
+      "ratio": "3:1",
+      "symbol": "C"
+    },
+    {
+      "name": "CORP AMERICA AIRPORTS SA",
+      "ratio": "1:4",
+      "symbol": "CAAP"
+    },
+    {
+      "name": "CARDINAL HEALTH INC",
+      "ratio": "3:1",
+      "symbol": "CAH"
+    },
+    {
+      "name": "AVIS BUDGET GROUP INC",
+      "ratio": "26:1",
+      "symbol": "CAR"
+    },
+    {
+      "name": "CATERPILLAR INC",
+      "ratio": "20:1",
+      "symbol": "CAT"
+    },
+    {
+      "name": "CIA BRASILEIRA DE DIS- ADR",
+      "ratio": "1:1",
+      "symbol": "CBD"
+    },
+    {
+      "name": "COEUR MINING INC",
+      "ratio": "1:1",
+      "symbol": "CDE"
+    },
+    {
+      "name": "COLGATE-PALMOLIVE CO",
+      "ratio": "3:1",
+      "symbol": "CL"
+    },
+    {
+      "name": "COINBASE GLOBAL INC",
+      "ratio": "27:1",
+      "symbol": "COIN"
+    },
+    {
+      "name": "COSTCO WHOLESALE CORP",
+      "ratio": "48:1",
+      "symbol": "COST"
+    },
+    {
+      "name": "SALESFORCE INC",
+      "ratio": "18:1",
+      "symbol": "CRM"
+    },
+    {
+      "name": "CREDIT SUISSE GROUP",
+      "ratio": "1:1",
+      "symbol": "CS"
+    },
+    {
+      "name": "CISCO SYSTEMS INC",
+      "ratio": "5:1",
+      "symbol": "CSCO"
+    },
+    {
+      "name": "CHEVRON CORP",
+      "ratio": "16:1",
+      "symbol": "CVX"
+    },
+    {
+      "name": "CEMEX SAB-SPONS ADR PART CER",
+      "ratio": "1:1",
+      "symbol": "CX"
+    },
+    {
+      "name": "DUPONT DE NEMOURS INC",
+      "ratio": "5:1",
+      "symbol": "DD"
+    },
+    {
+      "name": "DEERE & CO",
+      "ratio": "40:1",
+      "symbol": "DE"
+    },
+    {
+      "name": "DIAGEO PLC-SPONSORED ADR",
+      "ratio": "6:1",
+      "symbol": "DEO"
+    },
+    {
+      "name": "DESPEGAR.COM CORP",
+      "ratio": "1:1",
+      "symbol": "DESP"
+    },
+    {
+      "name": "WALT DISNEY CO/THE",
+      "ratio": "12:1",
+      "symbol": "DIS"
+    },
+    {
+      "name": "DOCUSIGN INC",
+      "ratio": "22:1",
+      "symbol": "DOCU"
+    },
+    {
+      "name": "DOW INC",
+      "ratio": "6:1",
+      "symbol": "DOW"
+    },
+    {
+      "name": "DEUTSCHE TELEKOM AG-SPON ADR",
+      "ratio": "3:1",
+      "symbol": "DTEA"
+    },
+    {
+      "name": "ENI SPA-SPONSORED ADR",
+      "ratio": "4:1",
+      "symbol": "E"
+    },
+    {
+      "name": "ELECTRONIC ARTS INC",
+      "ratio": "14:1",
+      "symbol": "EA"
+    },
+    {
+      "name": "EBAY INC",
+      "ratio": "2:1",
+      "symbol": "EBAY"
+    },
+    {
+      "name": "CENTRAIS ELETRICAS BR-SP ADR",
+      "ratio": "1:4",
+      "symbol": "EBR"
+    },
+    {
+      "name": "EQUIFAX INC",
+      "ratio": "16:1",
+      "symbol": "EFX"
+    },
+    {
+      "name": "CIA PARANAENSE ENER-SP ADR P",
+      "ratio": "1:3",
+      "symbol": "ELP"
+    },
+    {
+      "name": "E.ON SE",
+      "ratio": "6:1",
+      "symbol": "EOAN"
+    },
+    {
+      "name": "ERICSSON (LM) TEL-SP ADR",
+      "ratio": "2:1",
+      "symbol": "ERIC"
+    },
+    {
+      "name": "EMBRAER SA-SPON ADR",
+      "ratio": "1:1",
+      "symbol": "ERJ"
+    },
+    {
+      "name": "ETSY INC",
+      "ratio": "16:1",
+      "symbol": "ETSY"
+    },
+    {
+      "name": "FORD MOTOR COMPANY",
+      "ratio": "1:1",
+      "symbol": "F"
+    },
+    {
+      "name": "FREEPORT-MCMORAN INC",
+      "ratio": "3:1",
+      "symbol": "FCX"
+    },
+    {
+      "name": "FEDEX CORP",
+      "ratio": "10:1",
+      "symbol": "FDX"
+    },
+    {
+      "name": "FREDDIE MAC",
+      "ratio": "1:1",
+      "symbol": "FMCC"
+    },
+    {
+      "name": "FOMENTO ECONOMICO MEX-SP ADR",
+      "ratio": "6:1",
+      "symbol": "FMX"
+    },
+    {
+      "name": "FANNIE MAE",
+      "ratio": "1:1",
+      "symbol": "FNMA"
+    },
+    {
+      "name": "FIRST SOLAR INC",
+      "ratio": "18:1",
+      "symbol": "FSLR"
+    },
+    {
+      "name": "GENERAL ELECTRIC CO",
+      "ratio": "8:1",
+      "symbol": "GE"
+    },
+    {
+      "name": "GOLD FIELDS LTD-SPONS ADR",
+      "ratio": "1:1",
+      "symbol": "GFI"
+    },
+    {
+      "name": "GERDAU SA -SPON ADR",
+      "ratio": "1:4",
+      "symbol": "GGB"
+    },
+    {
+      "name": "GILEAD SCIENCES INC",
+      "ratio": "4:1",
+      "symbol": "GILD"
+    },
+    {
+      "name": "GLOBANT SA",
+      "ratio": "18:1",
+      "symbol": "GLOB"
+    },
+    {
+      "name": "CORNING INC",
+      "ratio": "4:1",
+      "symbol": "GLW"
+    },
+    {
+      "name": "GENERAL MOTORS CO",
+      "ratio": "6:1",
+      "symbol": "GM"
+    },
+    {
+      "name": "BARRICK GOLD CORPORATION",
+      "ratio": "2:1",
+      "symbol": "GOLD"
+    },
+    {
+      "name": "ALPHABET INC-CL A",
+      "ratio": "58:1",
+      "symbol": "GOOGL"
+    },
+    {
+      "name": "GEOPARK LTD",
+      "ratio": "1:1",
+      "symbol": "GPRK"
+    },
+    {
+      "name": "GARMIN LTD",
+      "ratio": "3:1",
+      "symbol": "GRMN"
+    },
+    {
+      "name": "GOLDMAN SACHS GROUP INC",
+      "ratio": "13:1",
+      "symbol": "GS"
+    },
+    {
+      "name": "GSK PLC",
+      "ratio": "4:1",
+      "symbol": "GSK"
+    },
+    {
+      "name": "HALLIBURTON CO",
+      "ratio": "2:1",
+      "symbol": "HAL"
+    },
+    {
+      "name": "HOME DEPOT INC",
+      "ratio": "32:1",
+      "symbol": "HD"
+    },
+    {
+      "name": "HDFC BANK LTD-ADR",
+      "ratio": "2:1",
+      "symbol": "HDB"
+    },
+    {
+      "name": "HON HAI PRECISION-GDR REG S",
+      "ratio": "2:1",
+      "symbol": "HHPD LI"
+    },
+    {
+      "name": "HECLA MINING CO",
+      "ratio": "1:1",
+      "symbol": "HL"
+    },
+    {
+      "name": "HONDA MOTOR CO LTD-SPONS ADR",
+      "ratio": "1:1",
+      "symbol": "HMC"
+    },
+    {
+      "name": "HARMONY GOLD MNG-SPON ADR",
+      "ratio": "1:1",
+      "symbol": "HMY"
+    },
+    {
+      "name": "HUANENG POWER INTL-SPONS ADR",
+      "ratio": "1:1",
+      "symbol": "HNPIY"
+    },
+    {
+      "name": "HARLEY-DAVIDSON INC",
+      "ratio": "3:1",
+      "symbol": "HOG"
+    },
+    {
+      "name": "HONEYWELL INTERNATIONAL INC",
+      "ratio": "8:1",
+      "symbol": "HON"
+    },
+    {
+      "name": "HP INC",
+      "ratio": "1:1",
+      "symbol": "HPQ"
+    },
+    {
+      "name": "HSBC HOLDINGS PLC-SPONS ADR",
+      "ratio": "2:1",
+      "symbol": "HSBC"
+    },
+    {
+      "name": "HERSHEY CO/THE",
+      "ratio": "21:1",
+      "symbol": "HSY"
+    },
+    {
+      "name": "HUT 8 MINING CORP.",
+      "ratio": "1:5",
+      "symbol": "HUT"
+    },
+    {
+      "name": "HOWMET AEROSPACE INC",
+      "ratio": "1:1",
+      "symbol": "HWM"
+    },
+    {
+      "name": "INTERNATIONAL BUSINESS MACHINES CORPORATION (IBM)",
+      "ratio": "15:1",
+      "symbol": "IBM"
+    },
+    {
+      "name": "ICICI BANK LTD-SPON ADR",
+      "ratio": "1:1",
+      "symbol": "IBN"
+    },
+    {
+      "name": "INTL FLAVORS & FRAGRANCES",
+      "ratio": "12:1",
+      "symbol": "IFF"
+    },
+    {
+      "name": "INFOSYS LTD-SP ADR",
+      "ratio": "1:1",
+      "symbol": "INFY"
+    },
+    {
+      "name": "ING GROEP N.V.-SPONSORED ADR",
+      "ratio": "3:1",
+      "symbol": "ING"
+    },
+    {
+      "name": "INTEL CORP",
+      "ratio": "5:1",
+      "symbol": "INTC"
+    },
+    {
+      "name": "INTERNATIONAL PAPER CO",
+      "ratio": "4:1",
+      "symbol": "IP"
+    },
+    {
+      "name": "ITAU UNIBANCO H-SPON PRF ADR",
+      "ratio": "1:1",
+      "symbol": "ITUB"
+    },
+    {
+      "name": "JOHNSON CONTROLS INTERNATION",
+      "ratio": "2:1",
+      "symbol": "JCI"
+    },
+    {
+      "name": "JD.COM INC-ADR",
+      "ratio": "4:1",
+      "symbol": "JD"
+    },
+    {
+      "name": "ADR JUMIA TECHNOLOGIES AG",
+      "ratio": "1:1",
+      "symbol": "JMIA"
+    },
+    {
+      "name": "JOHNSON & JOHNSON",
+      "ratio": "15:1",
+      "symbol": "JNJ"
+    },
+    {
+      "name": "JPMORGAN CHASE & CO",
+      "ratio": "5:1",
+      "symbol": "JPM"
+    },
+    {
+      "name": "KB FINANCIAL GROUP INC-ADR",
+      "ratio": "2:1",
+      "symbol": "KB"
+    },
+    {
+      "name": "KOREA ELEC POWER CORP-SP ADR",
+      "ratio": "1:1",
+      "symbol": "KEP"
+    },
+    {
+      "name": "KINROSS GOLD CORP",
+      "ratio": "1:1",
+      "symbol": "KGC"
+    },
+    {
+      "name": "KIMBERLY-CLARK CORP",
+      "ratio": "6:1",
+      "symbol": "KMB"
+    },
+    {
+      "name": "COCA-COLA CO/THE",
+      "ratio": "5:1",
+      "symbol": "KO"
+    },
+    {
+      "name": "COCA-COLA FEMSA SAB-SP ADR",
+      "ratio": "2:1",
+      "symbol": "KOFM"
+    },
+    {
+      "name": "LUKOIL PJSC-SPON ADR",
+      "ratio": "4:1",
+      "symbol": "LKOD"
+    },
+    {
+      "name": "ELI LILLY AND COMPANY",
+      "ratio": "56:1",
+      "symbol": "LLY"
+    },
+    {
+      "name": "LOCKHEED MARTIN CORP",
+      "ratio": "20:1",
+      "symbol": "LMT"
+    },
+    {
+      "name": "LAM RESEARCH CORP",
+      "ratio": "56:1",
+      "symbol": "LRCX"
+    },
+    {
+      "name": "LAS VEGAS SANDS CORP",
+      "ratio": "2:1",
+      "symbol": "LVS"
+    },
+    {
+      "name": "LLOYDS BANKING GROUP PLC-ADR",
+      "ratio": "2:1",
+      "symbol": "LYG"
+    },
+    {
+      "name": "MASTERCARD INC - A",
+      "ratio": "33:1",
+      "symbol": "MA"
+    },
+    {
+      "name": "MERCEDES-BENZ GROUP AG",
+      "ratio": "4:1",
+      "symbol": "MBG"
+    },
+    {
+      "name": "MOBILE TELESYSTEMS-SP ADR",
+      "ratio": "2:1",
+      "symbol": "MBT"
+    },
+    {
+      "name": "MCDONALD'S CORP",
+      "ratio": "24:1",
+      "symbol": "MCD"
+    },
+    {
+      "name": "MEDTRONIC PLC",
+      "ratio": "4:1",
+      "symbol": "MDT"
+    },
+    {
+      "name": "MERCADOLIBRE INC",
+      "ratio": "120:1",
+      "symbol": "MELI"
+    },
+    {
+      "name": "META PLATFORMS INC.",
+      "ratio": "24:1",
+      "symbol": "META"
+    },
+    {
+      "name": "MIZUHO FINANCIAL GROUP-ADR",
+      "ratio": "1:1",
+      "symbol": "MFG"
+    },
+    {
+      "name": "MARSH & MCLENNAN COS",
+      "ratio": "16:1",
+      "symbol": "MMC"
+    },
+    {
+      "name": "3M COMPANY",
+      "ratio": "10:1",
+      "symbol": "MMM"
+    },
+    {
+      "name": "ALTRIA GROUP INC",
+      "ratio": "4:1",
+      "symbol": "MO"
+    },
+    {
+      "name": "HE MOSAIC CO",
+      "ratio": "5:1",
+      "symbol": "MOS"
+    },
+    {
+      "name": "MERCK & CO. INC.",
+      "ratio": "5:1",
+      "symbol": "MRK"
+    },
+    {
+      "name": "MICROSOFT CORP",
+      "ratio": "30:1",
+      "symbol": "MSFT"
+    },
+    {
+      "name": "MOTOROLA SOLUTIONS INC",
+      "ratio": "20:1",
+      "symbol": "MSI"
+    },
+    {
+      "name": "MICROSTRATEGY INC CL A NEW",
+      "ratio": "20:1",
+      "symbol": "MSTR"
+    },
+    {
+      "name": "MICRON TECHNOLOGY INC",
+      "ratio": "5:1",
+      "symbol": "MU"
+    },
+    {
+      "name": "MITSUBISHI UFJ FINL-SPON ADR",
+      "ratio": "1:1",
+      "symbol": "MUFG"
+    },
+    {
+      "name": "NEC CORP",
+      "ratio": "1:3",
+      "symbol": "NEC1"
+    },
+    {
+      "name": "NEWMONT CORP",
+      "ratio": "3:1",
+      "symbol": "NEM"
+    },
+    {
+      "name": "NETFLIX INC",
+      "ratio": "48:1",
+      "symbol": "NFLX"
+    },
+    {
+      "name": "NOVAGOLD RESOURCES INC",
+      "ratio": "1:4",
+      "symbol": "NG"
+    },
+    {
+      "name": "NATIONAL GRID PLC-SP ADR",
+      "ratio": "2:1",
+      "symbol": "NGG"
+    },
+    {
+      "name": "NIO INC.",
+      "ratio": "4:1",
+      "symbol": "NIO"
+    },
+    {
+      "name": "NIKE INC -CL B",
+      "ratio": "12:1",
+      "symbol": "NKE"
+    },
+    {
+      "name": "NOVOLIPETSK STEEL PJSC-GDR",
+      "ratio": "2:1",
+      "symbol": "NLM"
+    },
+    {
+      "name": "NOMURA HOLDINGS INC-SPON ADR",
+      "ratio": "1:1",
+      "symbol": "NMR"
+    },
+    {
+      "name": "NOKIA CORP-SPON ADR",
+      "ratio": "1:1",
+      "symbol": "NOKA"
+    },
+    {
+      "name": "NISSAN MOTOR CO LTD-SPON ADR",
+      "ratio": "1:1",
+      "symbol": "NSAN"
+    },
+    {
+      "name": "NATURA &CO HOLDING-ADR",
+      "ratio": "1:1",
+      "symbol": "NTCO"
+    },
+    {
+      "name": "NETEASE INC-ADR",
+      "ratio": "14:1",
+      "symbol": "NTES"
+    },
+    {
+      "name": "NUCOR CORP",
+      "ratio": "16:1",
+      "symbol": "NUE"
+    },
+    {
+      "name": "NVIDIA CORP",
+      "ratio": "24:1",
+      "symbol": "NVDA"
+    },
+    {
+      "name": "NOVARTIS AG-SPONSORED ADR",
+      "ratio": "4:1",
+      "symbol": "NVS"
+    },
+    {
+      "name": "GAZPROM PJSC-SPON ADR",
+      "ratio": "2:1",
+      "symbol": "OGZD"
+    },
+    {
+      "name": "ORANGE-SPON ADR",
+      "ratio": "1:1",
+      "symbol": "ORAN"
+    },
+    {
+      "name": "ORACLE CORP",
+      "ratio": "3:1",
+      "symbol": "ORCL"
+    },
+    {
+      "name": "OCCIDENTAL PETROLEUM CORP.",
+      "ratio": "3:1",
+      "symbol": "OXY"
+    },
+    {
+      "name": "PAN AMERICAN SILVER CORP",
+      "ratio": "5:1",
+      "symbol": "PAAS"
+    },
+    {
+      "name": "GRUPO AEROPORTUARIO PAC-ADR",
+      "ratio": "16:1",
+      "symbol": "PAC"
+    },
+    {
+      "name": "PALO ALTO NETWORKS INC",
+      "ratio": "50:1",
+      "symbol": "PANW"
+    },
+    {
+      "name": "PITNEY BOWES INC",
+      "ratio": "1:1",
+      "symbol": "PBI"
+    },
+    {
+      "name": "PETROLEO BRASILEIRO-SPON ADR",
+      "ratio": "1:1",
+      "symbol": "PBR"
+    },
+    {
+      "name": "PACCAR INC",
+      "ratio": "3:1",
+      "symbol": "PCAR"
+    },
+    {
+      "name": "PANASONIC CORP-SPON ADR",
+      "ratio": "2:1",
+      "symbol": "PCRF"
+    },
+    {
+      "name": "PEPSICO INC",
+      "ratio": "18:1",
+      "symbol": "PEP"
+    },
+    {
+      "name": "PFIZER INC",
+      "ratio": "4:1",
+      "symbol": "PFE"
+    },
+    {
+      "name": "PROCTER & GAMBLE CO/THE",
+      "ratio": "15:1",
+      "symbol": "PG"
+    },
+    {
+      "name": "KONINKLIJKE PHILIPS NVR- NY",
+      "ratio": "5:1",
+      "symbol": "PHG"
+    },
+    {
+      "name": "POSCO HONDINGS INC",
+      "ratio": "3:1",
+      "symbol": "PKS"
+    },
+    {
+      "name": "PEARSON PLC-SPONSORED ADR",
+      "ratio": "1:1",
+      "symbol": "PSO"
+    },
+    {
+      "name": "PHILLIPS 66",
+      "ratio": "6:1",
+      "symbol": "PSX"
+    },
+    {
+      "name": "PETROCHINA CO LTD -ADR",
+      "ratio": "4:1",
+      "symbol": "PTRCY"
+    },
+    {
+      "name": "PAYPAL HOLDINGS INC",
+      "ratio": "8:1",
+      "symbol": "PYPL"
+    },
+    {
+      "name": "QUALCOMM INC",
+      "ratio": "11:1",
+      "symbol": "QCOM"
+    },
+    {
+      "name": "ROBLOX CORP.",
+      "ratio": "2:1",
+      "symbol": "RBLX"
+    },
+    {
+      "name": "RIO TINTO PLC-SPON ADR",
+      "ratio": "8:1",
+      "symbol": "RIO"
+    },
+    {
+      "name": "ROSS STORES INC",
+      "ratio": "4:1",
+      "symbol": "ROST"
+    },
+    {
+      "name": "RTX CORPORATION",
+      "ratio": "5:1",
+      "symbol": "RTX"
+    },
+    {
+      "name": "BANCO SANTANDER SA-SPON ADR",
+      "ratio": "1:4",
+      "symbol": "SAN"
+    },
+    {
+      "name": "SAP SE-SPONSORED ADR",
+      "ratio": "6:1",
+      "symbol": "SAP"
+    },
+    {
+      "name": "SATELLOGIC INC.",
+      "ratio": "1:1",
+      "symbol": "SATL"
+    },
+    {
+      "name": "CIA SANEAMENTO BASICO DE-ADR",
+      "ratio": "1:2",
+      "symbol": "SBS"
+    },
+    {
+      "name": "STARBUCKS CORP",
+      "ratio": "12:1",
+      "symbol": "SBUX"
+    },
+    {
+      "name": "SOUTHERN COPPER CORP",
+      "ratio": "2:1",
+      "symbol": "SCCO"
+    },
+    {
+      "name": "SEA LTD.",
+      "ratio": "32:1",
+      "symbol": "SE"
+    },
+    {
+      "name": "SHELL PLC",
+      "ratio": "2:1",
+      "symbol": "SHEL"
+    },
+    {
+      "name": "SHOPIFY INC - CLASS A",
+      "ratio": "107:1",
+      "symbol": "SHOP"
+    },
+    {
+      "name": "SILVERGATE BANCORP",
+      "ratio": "10:1",
+      "symbol": "SI"
+    },
+    {
+      "name": "CIA SIDERURGICA NACL-SP ADR",
+      "ratio": "1:8",
+      "symbol": "SID"
+    },
+    {
+      "name": "SIEMENS AG-SPONS ADR",
+      "ratio": "3:1",
+      "symbol": "SIEGY"
+    },
+    {
+      "name": "SCHLUMBERGER LTD",
+      "ratio": "3:1",
+      "symbol": "SLB"
+    },
+    {
+      "name": "SAMSUNG ELECTR-GDR REG S",
+      "ratio": "14:1",
+      "symbol": "SMSN"
+    },
+    {
+      "name": "SNAP-ON INC",
+      "ratio": "6:1",
+      "symbol": "SNA"
+    },
+    {
+      "name": "SNAP INC - A",
+      "ratio": "1:1",
+      "symbol": "SNAP"
+    },
+    {
+      "name": "SNOWFLAKE INC-CLASS A",
+      "ratio": "30:1",
+      "symbol": "SNOW"
+    },
+    {
+      "name": "SONY CORPORATION",
+      "ratio": "8:1",
+      "symbol": "SONY"
+    },
+    {
+      "name": "S&P GLOBAL INC",
+      "ratio": "45:1",
+      "symbol": "SPGI"
+    },
+    {
+      "name": "SPOTIFY TECHNOLOGY SA",
+      "ratio": "28:1",
+      "symbol": "SPOT"
+    },
+    {
+      "name": "BLOCK INC",
+      "ratio": "20:1",
+      "symbol": "SQ"
+    },
+    {
+      "name": "SUZANO SA - SPON ADR",
+      "ratio": "1:1",
+      "symbol": "SUZ"
+    },
+    {
+      "name": "SYSCO CORP",
+      "ratio": "8:1",
+      "symbol": "SYY"
+    },
+    {
+      "name": "AT&T INC",
+      "ratio": "3:1",
+      "symbol": "T"
+    },
+    {
+      "name": "TRIP.COM GROUP LTD-ADR",
+      "ratio": "2:1",
+      "symbol": "TCOM"
+    },
+    {
+      "name": "TELEFONICA SA-SPON ADR",
+      "ratio": "8:1",
+      "symbol": "TEFO"
+    },
+    {
+      "name": "TENARIS SA-ADR",
+      "ratio": "1:1",
+      "symbol": "TEN"
+    },
+    {
+      "name": "TARGET CORP",
+      "ratio": "24:1",
+      "symbol": "TGT"
+    },
+    {
+      "name": "TIM PARTICIPAÇÕES S.A.",
+      "ratio": "1:1",
+      "symbol": "TIMB"
+    },
+    {
+      "name": "TELECOM ITALIA SPA-SPON ADR",
+      "ratio": "1:1",
+      "symbol": "TIIAY"
+    },
+    {
+      "name": "TOYOTA MOTOR CORP",
+      "ratio": "15:1",
+      "symbol": "TM"
+    },
+    {
+      "name": "THERMO FISHER SCIENTIFIC INC",
+      "ratio": "22:1",
+      "symbol": "TMO"
+    },
+    {
+      "name": "TRIPADVISOR INC",
+      "ratio": "2:1",
+      "symbol": "TRIP"
+    },
+    {
+      "name": "TRAVELERS COS INC/THE",
+      "ratio": "6:1",
+      "symbol": "TRV"
+    },
+    {
+      "name": "TESLA INC",
+      "ratio": "15:1",
+      "symbol": "TSLA"
+    },
+    {
+      "name": "TAIWAN SEMICONDUCTOR-SP ADR",
+      "ratio": "9:1",
+      "symbol": "TSM"
+    },
+    {
+      "name": "TIM SA-ADR",
+      "ratio": "1:1",
+      "symbol": "TSU"
+    },
+    {
+      "name": "TOTALENERGIES SE - ADR",
+      "ratio": "3:1",
+      "symbol": "TTE"
+    },
+    {
+      "name": "TATA MOTORS LTD-SPON ADR",
+      "ratio": "1:1",
+      "symbol": "TTM"
+    },
+    {
+      "name": "GRUPO TELEVISA SA-SPON ADR",
+      "ratio": "3:1",
+      "symbol": "TV"
+    },
+    {
+      "name": "TWILIO INC",
+      "ratio": "36:1",
+      "symbol": "TWLO"
+    },
+    {
+      "name": "TEXAS INSTRUMENTS INC",
+      "ratio": "5:1",
+      "symbol": "TXN"
+    },
+    {
+      "name": "TERNIUM SA-SPONSORED ADR",
+      "ratio": "4:1",
+      "symbol": "TXR"
+    },
+    {
+      "name": "UNITED AIRLINES HOLDINGS INC.",
+      "ratio": "5:1",
+      "symbol": "UAL"
+    },
+    {
+      "name": "UBER TECHNOLOGIES INC.",
+      "ratio": "2:1",
+      "symbol": "UBER"
+    },
+    {
+      "name": "ULTRAPAR PARTICPAC-SPON ADR",
+      "ratio": "1:1",
+      "symbol": "UGP"
+    },
+    {
+      "name": "UNILEVER N V -NY SHARES",
+      "ratio": "3:1",
+      "symbol": "UL"
+    },
+    {
+      "name": "UNITEDHEALTH GROUP INC",
+      "ratio": "33:1",
+      "symbol": "UNH"
+    },
+    {
+      "name": "UNION PACIFIC CORP",
+      "ratio": "20:1",
+      "symbol": "UNP"
+    },
+    {
+      "name": "UPSTART HLDGS INC",
+      "ratio": "5:1",
+      "symbol": "UPST"
+    },
+    {
+      "name": "URBAN OUTFITTERS INC",
+      "ratio": "2:1",
+      "symbol": "URBN"
+    },
+    {
+      "name": "US BANCORP",
+      "ratio": "5:1",
+      "symbol": "USB"
+    },
+    {
+      "name": "VISA INC-CLASS A SHARES",
+      "ratio": "18:1",
+      "symbol": "V"
+    },
+    {
+      "name": "VALE SA-SP ADR",
+      "ratio": "2:1",
+      "symbol": "VALE"
+    },
+    {
+      "name": "VISTA ENERGY S.A.B. de C.V",
+      "ratio": "3:1",
+      "symbol": "VIST"
+    },
+    {
+      "name": "TELEFONICA BRASIL-ADR",
+      "ratio": "1:1",
+      "symbol": "VIV"
+    },
+    {
+      "name": "VODAFONE GROUP PLC-SP ADR",
+      "ratio": "1:1",
+      "symbol": "VOD"
+    },
+    {
+      "name": "VERISIGN INC",
+      "ratio": "6:1",
+      "symbol": "VRSN"
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS INC",
+      "ratio": "4:1",
+      "symbol": "VZ"
+    },
+    {
+      "name": "WALGREENS BOOTS ALLIANCE INC",
+      "ratio": "3:1",
+      "symbol": "WBA"
+    },
+    {
+      "name": "WEIBO CORP-SPON ADR",
+      "ratio": "6:1",
+      "symbol": "WBO"
+    },
+    {
+      "name": "WELLS FARGO & CO",
+      "ratio": "5:1",
+      "symbol": "WFC"
+    },
+    {
+      "name": "WALMART INC",
+      "ratio": "18:1",
+      "symbol": "WMT"
+    },
+    {
+      "name": "UNITED STATES STEEL CORP",
+      "ratio": "3:1",
+      "symbol": "X"
+    },
+    {
+      "name": "EXXON MOBIL CORPORATION",
+      "ratio": "10:1",
+      "symbol": "XOM"
+    },
+    {
+      "name": "XP INC",
+      "ratio": "4:1",
+      "symbol": "XP"
+    },
+    {
+      "name": "XEROX HOLDINGS CORP",
+      "ratio": "1:1",
+      "symbol": "XROX"
+    },
+    {
+      "name": "YELP INC",
+      "ratio": "2:1",
+      "symbol": "YELP"
+    },
+    {
+      "name": "JOYY INC",
+      "ratio": "5:1",
+      "symbol": "YY"
+    },
+    {
+      "name": "YANKUANG ENERGY GROUP CO. LTD.",
+      "ratio": "2:1",
+      "symbol": "YZCA"
+    },
+    {
+      "name": "ZOOM VIDEO COMMUNICATIONS-A",
+      "ratio": "47:1",
+      "symbol": "ZM"
+    },
+    {
+      "isETF": true,
+      "name": "ETF ARK INNOVATION",
+      "ratio": "10:1",
+      "symbol": "ARKK"
+    },
+    {
+      "isETF": true,
+      "name": "SPDR DOW JONES INDUSTRIAL",
+      "ratio": "20:1",
+      "symbol": "DIA"
+    },
+    {
+      "isETF": true,
+      "name": "ISHARES  MSCI EMERGING MARKET",
+      "ratio": "5:1",
+      "symbol": "EEM"
+    },
+    {
+      "isETF": true,
+      "name": "ISHARES MSCI BRAZIL CAP",
+      "ratio": "2:1",
+      "symbol": "EWZ"
+    },
+    {
+      "isETF": true,
+      "name": "ISHARES TRUST RUSSELL 2000",
+      "ratio": "10:1",
+      "symbol": "IWM"
+    },
+    {
+      "isETF": true,
+      "name": "INVESCO QQQ TRUST",
+      "ratio": "20:1",
+      "symbol": "QQQ"
+    },
+    {
+      "isETF": true,
+      "name": "SPDR S&P 500",
+      "ratio": "20:1",
+      "symbol": "SPY"
+    },
+    {
+      "isETF": true,
+      "name": "ENERGY SELECT SECTOR SPDR FUND",
+      "ratio": "2:1",
+      "symbol": "XLE"
+    },
+    {
+      "isETF": true,
+      "name": "FINANCIAL SELECT SECTOR SPDR FUND",
+      "ratio": "2:1",
+      "symbol": "XLF"
+    }
+  ],
+  "validSince": "2024-01-24T00:00:00.000Z"
+}

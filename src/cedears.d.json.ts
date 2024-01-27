@@ -5,7 +5,10 @@ export type Cedear = {
   symbol: string;
 };
 
-export type Cedears = Cedear[];
+export type Cedears = {
+  list: Cedear[];
+  validSince: string;
+};
 
 declare const cedears: Cedears;
 export default cedears;
