@@ -1,4 +1,4 @@
-name: Publish
+name: Tag
 
 # Will limit one workflow per branch and one per pull_request at the same time
 # and cancel if a new one appears.
@@ -18,7 +18,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - uses: butlerlogic/action-autotag@stable
+      - uses: butlerlogic/action-autotag@1.1.2
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         with:
