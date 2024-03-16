@@ -3,7 +3,8 @@
   "version": "0.0.2",
   "description": "Archivo json con el listado de Cedears con sus ratios",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format:check": "prettier --check src/**/*.{js,json}",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,16 @@
     "src/cedears.json"
   ],
   "homepage": "https://github.com/gndelia/cedears#readme",
-  "main": "src/cedears.json"
+  "main": "src/cedears.json",
+  "devDependencies": {
+    "husky": "9.0.11",
+    "lint-staged": "15.2.2",
+    "prettier": "3.2.5"
+  },
+  "lint-staged": {
+    "src/**/*.{js,json}": "prettier --write"
+  },
+  "prettier": {
+    "singleQuote": true
+  }
 }
