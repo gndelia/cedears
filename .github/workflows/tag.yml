@@ -20,7 +20,7 @@ jobs:
 
       - uses: butlerlogic/action-autotag@1.1.2
         env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          GITHUB_TOKEN: "${{ secrets.TAG_PAT }}"
         with:
           strategy: package
           tag_prefix: "v"
