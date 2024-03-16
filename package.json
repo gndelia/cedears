@@ -1,6 +1,6 @@
 {
   "name": "cedears",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Archivo json con el listado de Cedears con sus ratios",
   "scripts": {
     "format:check": "prettier --check src/**/*.{js,json}",

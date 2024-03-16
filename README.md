@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/cedears.svg)](https://badge.fury.io/js/cedears)
 
-Archivo json con el listado de Cedears con sus ratios, actualizado al 24/01/2024.
+Archivo json con el listado de Cedears con sus ratios, actualizado al 18/03/2024.
 
 ## Instalación
 
