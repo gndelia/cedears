@@ -6,6 +6,11 @@
       "symbol": "AAL"
     },
     {
+      "name": "ADVANCE AUTO PARTS INC",
+      "ratio": "14:1",
+      "symbol": "AAP"
+    },
+    {
       "name": "APPLE INC",
       "ratio": "20:1",
       "symbol": "AAPL"
@@ -711,6 +716,11 @@
       "symbol": "KOFM"
     },
     {
+      "name": "LITHIUM AMERICAS CORP",
+      "ratio": "1:1",
+      "symbol": "LAC"
+    },
+    {
       "name": "LUKOIL PJSC-SPON ADR",
       "ratio": "4:1",
       "symbol": "LKOD"
@@ -806,6 +816,11 @@
       "symbol": "MRK"
     },
     {
+      "name": "MARVELL TECHNOLOGY INC",
+      "ratio": "14:1",
+      "symbol": "MRVL"
+    },
+    {
       "name": "MICROSOFT CORP",
       "ratio": "30:1",
       "symbol": "MSFT"
@@ -829,6 +844,11 @@
       "name": "MITSUBISHI UFJ FINL-SPON ADR",
       "ratio": "1:1",
       "symbol": "MUFG"
+    },
+    {
+      "name": "McEWEN MINING INC",
+      "ratio": "2:1",
+      "symbol": "MUX"
     },
     {
       "name": "NEC CORP",
@@ -896,6 +916,11 @@
       "symbol": "NTES"
     },
     {
+      "name": "NU HOLDINGS LTD/CAYMAN ISLANDS",
+      "ratio": "2:1",
+      "symbol": "NU"
+    },
+    {
       "name": "NUCOR CORP",
       "ratio": "16:1",
       "symbol": "NUE"
@@ -939,6 +964,11 @@
       "name": "GRUPO AEROPORTUARIO PAC-ADR",
       "ratio": "16:1",
       "symbol": "PAC"
+    },
+    {
+      "name": "PAGSEGURO DIGITAL LTD",
+      "ratio": "3:1",
+      "symbol": "PAGS"
     },
     {
       "name": "PALO ALTO NETWORKS INC",
@@ -989,6 +1019,11 @@
       "name": "POSCO HONDINGS INC",
       "ratio": "3:1",
       "symbol": "PKS"
+    },
+    {
+      "name": "PALANTIR TECHNOLOGIES INC",
+      "ratio": "3:1",
+      "symbol": "PLTR"
     },
     {
       "name": "PEARSON PLC-SPONSORED ADR",
@@ -1066,6 +1101,11 @@
       "symbol": "SCCO"
     },
     {
+      "name": "SUNCAR TECHNOLOGY GROUP INC",
+      "ratio": "2:1",
+      "symbol": "SDA"
+    },
+    {
       "name": "SEA LTD.",
       "ratio": "32:1",
       "symbol": "SE"
@@ -1079,6 +1119,11 @@
       "name": "SHOPIFY INC - CLASS A",
       "ratio": "107:1",
       "symbol": "SHOP"
+    },
+    {
+      "name": "SHAPEWAYS HOLDINGS INC",
+      "ratio": "1:2",
+      "symbol": "SHPW"
     },
     {
       "name": "SILVERGATE BANCORP",
@@ -1141,6 +1186,11 @@
       "symbol": "SQ"
     },
     {
+      "name": "STONE CO LTD",
+      "ratio": "3:1",
+      "symbol": "STNE"
+    },
+    {
       "name": "SUZANO SA - SPON ADR",
       "ratio": "1:1",
       "symbol": "SUZ"
@@ -1176,14 +1226,14 @@
       "symbol": "TGT"
     },
     {
-      "name": "TIM PARTICIPAÇÕES S.A.",
-      "ratio": "1:1",
-      "symbol": "TIMB"
-    },
-    {
       "name": "TELECOM ITALIA SPA-SPON ADR",
       "ratio": "1:1",
       "symbol": "TIIAY"
+    },
+    {
+      "name": "TIM PARTICIPAÇÕES S.A.",
+      "ratio": "1:1",
+      "symbol": "TIMB"
     },
     {
       "name": "TOYOTA MOTOR CORP",
@@ -1445,5 +1495,5 @@
       "symbol": "XLF"
     }
   ],
-  "validSince": "2024-01-24T00:00:00.000Z"
+  "validSince": "2024-03-18T00:00:00.000Z"
 }
